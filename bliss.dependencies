@@ -1,0 +1,30 @@
+[
+  {
+   "remote": "cm", 
+    "repository": "android_device_sony_castor_windy",
+    "target_path": "device/sony/castor_windy",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm", 
+    "repository": "android_device_sony_castor_windy",
+    "target_path": "device/sony/castor_windy",
+    "revision": "cm-12.0"
+  },
+  {
+    "repository": "android_device_sony_qcom-common",
+    "target_path": "device/sony/qcom-common"
+  },
+  {
+  "remote": "cm",   
+  "repository": "android_kernel_sony_msm8974",
+  "target_path": "device/kernel/sony/msm8974",
+  "revision": "cm-12.0"
+  },
+  {
+  "remote": "cm",
+  "repository": "android_device_sony_msm8974-common",
+  "target_path": "device/sony/msm8974-common",
+  "revision": "cm-12.0"
+  }
+]
