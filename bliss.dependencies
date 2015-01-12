@@ -38,7 +38,7 @@
   {
     "remote": "cm",   
     "repository": "android_kernel_sony_msm8974",
-    "target_path": "device/kernel/sony/msm8974",
+    "target_path": "kernel/sony/msm8974",
     "revision": "cm-12.0"
   },
   {
