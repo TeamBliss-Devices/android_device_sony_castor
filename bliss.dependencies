@@ -1,15 +1,15 @@
 [
   {
-   "remote": "cm", 
+   "remote": "TeamBliss-Devices", 
     "repository": "android_device_sony_castor_windy",
     "target_path": "device/sony/castor_windy",
-    "revision": "cm-12.0"
+    "revision": "lp5.0"
   },
   {
-    "remote": "cm",
+    "remote": "TeamBliss-Devices",
     "repository": "android_device_sony_shinano-common",
     "target_path": "device/sony/shinano-common",
-    "revision": "cm-12.0"
+    "revision": "lp5.0"
   },  
   {
     "remote": "cm",
