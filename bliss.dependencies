@@ -7,6 +7,12 @@
   },
   {
     "remote": "cm",
+    "repository": "android_device_sony_shinano-common",
+    "target_path": "device/sony/shinano-common",
+    "revision": "cm-12.0"
+  },  
+  {
+    "remote": "cm",
     "repository": "android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "revision": "cm-12.0"
